@@ -12,7 +12,8 @@
     "lucide-react": "latest",
     "react": "latest",
     "react-dom": "latest",
-    "react-router": "latest"
+    "react-router": "latest",
+    "react-router-dom": "^7.13.1"
   },
   "devDependencies": {
     "@tailwindcss/vite": "latest",
